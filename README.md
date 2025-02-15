@@ -1,2 +1,1 @@
-# rusty
-Rust Learning
+Learning Rust in HARD way!!!!
